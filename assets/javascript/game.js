@@ -17,6 +17,20 @@ var questions = [
       answer2: "rodriguez",
       answer3: "ducca",
       answer4: "romero"
+    },
+    {
+        question: "How many sides on a square?",
+        answer1: "5",
+        answer2: "3",
+        answer3: "7",
+        answer4: "4"
+    },
+    {
+        question: "OOF",
+        answer1: "oof",
+        answer2: "big oof",
+        answer3: "bidoof",
+        answer4: "boof"
     }
    ];
    
