@@ -139,7 +139,7 @@ $(document).ready(function(){
         $(this).css('background','white')
     })
     .mouseout(function(){
-        $(this).css('background','pink')
+        $(this).css('background','lightgreen')
     });
     
 
